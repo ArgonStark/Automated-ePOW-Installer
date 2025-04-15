@@ -61,4 +61,5 @@ Copy array of number and import them on backpack in private key section
 <br><br>
 
 
-## Main code : https://github.com/arshiaxbt/ePOW/blob/main/README.md
+**Inspired by:** [arshiaxbt/ePOW](https://github.com/arshiaxbt/ePOW)
+
