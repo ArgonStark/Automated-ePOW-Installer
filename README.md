@@ -1,1 +1,1 @@
-# Automated-ePOW-Installer
+# Automated-ePOW-Installer ( Ubuntu)
