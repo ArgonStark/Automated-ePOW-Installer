@@ -2,7 +2,9 @@
 
 
 ## Automated installation 
-``` curl -sSf https://raw.githubusercontent.com/ArgonStark/Automated-ePOW-Installer/refs/heads/main/automated_epow.sh -o automated_epow.sh && chmod +x automated_epow.sh && ./automated_epow.sh ``` 
+```
+ curl -sSf https://raw.githubusercontent.com/ArgonStark/Automated-ePOW-Installer/refs/heads/main/automated_epow.sh -o automated_epow.sh && chmod +x automated_epow.sh && ./automated_epow.sh 
+``` 
 
 6. Change RPC
 ```bash
