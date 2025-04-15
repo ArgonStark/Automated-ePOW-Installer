@@ -37,8 +37,10 @@ source "$HOME/.cargo/env"
 # ───── Solana CLI ─────
 echo -e "${BLUE}🚀 Installing Solana CLI...${RESET}"
 sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"
+echo $SHELL
 echo 'export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
+source ~/.bashrc 
 
 echo -e "${GREEN}✅ Solana CLI installed: $(solana --version)${RESET}"
 
